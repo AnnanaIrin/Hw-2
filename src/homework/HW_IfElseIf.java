@@ -38,7 +38,7 @@ public class HW_IfElseIf {
 
 
         Scanner input1 = new Scanner(System.in);
-        System.out.println("*****Let start use scanner if else*******");
+        System.out.println("*********Let start use scanner if else*******");
         System.out.println("Enter your college name");
         String name = input1.nextLine();
 
